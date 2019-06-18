@@ -1,0 +1,30 @@
+.grid-container {
+  margin: 20px;
+}
+
+.dashboard-card {
+  position: absolute;
+  top: 15px;
+  background-size: cover ;
+  background-repeat: no-repeat;
+  left: 15px;
+  right: 15px;
+  bottom: 15px;
+}
+
+mat-card-header {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.more-button {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+}
+
+.dashboard-card-content {
+  text-align: center;
+  img{
+    width:100%;
+  }
+}
